@@ -25,11 +25,6 @@
 - ⚙️ Always evolving  
 
 ---
-
-![sl banner](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenhpOHk1M2Q2Yms2Mm82ZWlreTR6ZWt4Zndxc2l1MWV4aXp3cHd3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVWuLuV1JESZJdebkI/giphy.gif)
-
----
-
 > _"I don't just code — I cultivate."_  
 
 ![end](https://imgs.search.brave.com/Hv02UHoUbgE16787YFJOAEbr04EhvBnnq7s9z9BEhTM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM4Lzk4/LzFlLzM4OTgxZWQw/OTBmMjk5ZDZhMjEy/ODE0ZTEzMDQ0YWNj/LmpwZw)
